@@ -1,0 +1,173 @@
+/* External CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #28abe3;
+    padding: 15px 10px;
+    position: sticky;
+    top: 0;
+}
+.cat-div {
+    /* background-color: skyblue; */
+}
+
+.cat-stick {
+    background-color: yellow;
+}
+.nav-container {
+    
+    background-color: #f4f4f4;
+   
+    
+}
+#land {
+    width: 30px;
+    text-decoration: none;
+}
+.logo{
+    font-size: 32px;
+    text-decoration: none;
+}
+
+
+.content-container{
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  
+}
+
+
+.btn-login{
+    /* background-color: white; */
+    color: gray;
+    padding: 10px 15px;
+    font-size: 18px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+.btn-login:hover{
+    color: rgb(235, 153, 1);
+}
+
+.login-icons {
+    margin-right: 100px;
+}
+
+
+.header {
+    color : gray;
+}
+.header:hover {
+    color: rgb(235, 153, 1);
+}
+
+.link-form {
+    margin-right: 300px;
+    list-style: none;
+    display: flex;
+    gap: 30px;
+
+}
+
+/* .link-form:before {
+    content: "\f02c";
+} */
+.content-list {
+    display : flex;
+    margin-left: 200px;
+    justify-content: space-around;
+    
+}
+.hero-section {
+    background-color: rgb(255, 255, 255);
+    height: 1100px;
+    display: flexbox;
+    
+    
+}
+
+#main-sec {
+    text-align: left;
+}
+
+/* #main-sec2 {
+    margin-left: 200px;
+} */
+
+/* #image {
+    margin-left: 200px;
+    padding: 20px 15px;
+} */
+
+#main-sec2 {
+    /* height: auto;
+    margin: 0 auto; */
+    
+    padding: 20px 15px;
+    
+    max-width: 100%;
+    
+    
+    
+}
+
+.content {
+    text-decoration: none;
+    list-style: none;
+    font-size: 14px;
+    
+    
+}
+
+.cat-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.images {
+    justify-content: center;
+    display: flex;
+    
+    gap: 33px;
+}
+
+.top-left-right {
+    gap: 100px;
+}
+
+.button-signUp {
+        background-color: rgb(255, 255, 255);
+        color: rgb(14, 14, 14);
+        padding: 10px 30px;
+        font-size: 24px;
+        margin-bottom: 30px;
+        border:-1px solid black;
+        cursor: pointer;
+        transition: 0.15s;
+        width: 200px;
+}
+
+#image {
+    scroll-margin-block: 400px;
+    
+   
+    
+}
+
+#other-section {
+    background-color: rgb(110, 110, 110);
+    height: 1100px;
+}
+
+#table-header {
+    display: flex;
+    
+    
+}
